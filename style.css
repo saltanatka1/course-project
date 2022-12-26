@@ -23,3 +23,8 @@ body {
   flex-grow: 1;
   flex-shrink: 1;
 }
+.col-3 {
+  flex-basis: 25%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
