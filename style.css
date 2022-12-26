@@ -75,3 +75,6 @@ body {
 .card .card-content {
   padding: 10px 15px;
 }
+.card.card-horizontal {
+  display: flex;
+}
