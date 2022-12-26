@@ -15,3 +15,6 @@ body {
   display: flex;
   flex-wrap: wrap;
 }
+[class^="col"] {
+  padding: 0 10px;
+}
