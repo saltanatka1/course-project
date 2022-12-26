@@ -63,3 +63,12 @@ body {
 .col-11 {
   flex: 91.6% 0 0;
 }
+.card {
+  background-color: white;
+  border: 2px solid rgb(240, 240, 240);
+  box-shadow: 0 0 10px 5px rgba(16, 15, 15, 0.47);
+  margin-bottom: 20px;
+}
+.card .card-image {
+  width: 80%;
+}
