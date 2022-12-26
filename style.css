@@ -78,3 +78,6 @@ body {
 .card.card-horizontal {
   display: flex;
 }
+.card.card-horizontal .card-image {
+  width: 30%;
+}
