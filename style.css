@@ -18,3 +18,8 @@ body {
 [class^="col"] {
   padding: 0 10px;
 }
+.col-4 {
+  flex-basis: 33.3%;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
