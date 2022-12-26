@@ -28,3 +28,9 @@ body {
   flex-grow: 0;
   flex-shrink: 0;
 }
+.col-2 {
+  flex-basis: 16.6%;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
