@@ -7,3 +7,6 @@ body {
   color: rgb(0, 0, 0, 1); 
   font-family: "Roboto", sans-serif;
 }
+.container {
+  max-width: 1440px;
+}
