@@ -72,3 +72,6 @@ body {
 .card .card-image {
   width: 80%;
 }
+.card .card-content {
+  padding: 10px 15px;
+}
