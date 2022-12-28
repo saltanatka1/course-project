@@ -219,3 +219,8 @@ header {
   font-weight: 700;
   margin: 0;
 }
+.section-grow-content-left-side #inside-left-side {
+  display: flex;
+  margin-bottom: 56px;
+  margin-top: 50px;
+}
