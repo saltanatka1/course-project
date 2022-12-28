@@ -151,3 +151,7 @@ header {
   margin: 0;
   color: rgba(111, 44, 255, 1);
 }
+.head p {
+  font-size: 16px;
+  font-weight: 400;
+}
