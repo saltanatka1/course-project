@@ -180,4 +180,5 @@ header {
 }
 .section1 .section1-content {
   display: flex;
+  flex-wrap: wrap;
 }
