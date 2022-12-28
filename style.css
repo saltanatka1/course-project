@@ -229,3 +229,7 @@ header {
   font-weight: 400;
   line-height: 22px;
 }
+.section-grow-content-left-side #p {
+  display: inline;
+  border-bottom: 1px solid rgb(18, 18, 18);
+}
