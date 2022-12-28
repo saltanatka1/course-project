@@ -137,3 +137,7 @@ header {
   padding-top: 20vh;
   padding-bottom: 35vh;
 }
+.head span {
+  font-size: 14px;
+  font-weight: 400;
+}
