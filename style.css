@@ -214,3 +214,8 @@ header {
 .section-grow-content-right-side-two {
   margin-left: 5%;
 }
+.section-grow-content-left-side h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0;
+}
