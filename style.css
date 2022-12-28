@@ -192,4 +192,6 @@ header {
 .section-class-brands p {
   display: inline-block;
   margin-left: 44vw;
+  font-size: 16px;
+  font-weight: 700;
 }
