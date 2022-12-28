@@ -189,3 +189,7 @@ header {
   font-weight: 700px;
   line-height: 30px;
 }
+.section-class-brands p {
+  display: inline-block;
+  margin-left: 44vw;
+}
