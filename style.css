@@ -103,6 +103,7 @@ nav {
   font-size: 14px;
   display: block;
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 nav img {
   margin-top: 10px;
@@ -119,6 +120,7 @@ nav img {
   padding: 10px 40px;
   margin-right: 40px;
   margin-top: 10px;
+  margin-bottom: 10px;
   font-size: 12px;
   color: white;
 }
