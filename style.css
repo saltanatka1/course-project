@@ -129,9 +129,11 @@ nav img {
   color: black;
   font-size: 15px;
 }
+header {
+  background-image: url(./images/bg1.jpg);
+}
 .head {
   margin-top: 2h;
   padding-top: 20vh;
   padding-bottom: 35vh;
-  background-image: url(./images/bg1.jpg);
 }
