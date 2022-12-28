@@ -4,7 +4,7 @@
 body {
   margin: 0;
   background-color: white;
-  color: rgb(0, 0, 0, 1); 
+  color: rgb(0, 0, 0, 1);
   font-family: "Roboto", sans-serif;
 }
 .container {
@@ -87,7 +87,7 @@ body {
 nav {
   display: flex;
 }
-.nav{
+.nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -161,4 +161,6 @@ header {
 #head-button-left {
   margin: 0;
   padding: 10px 15px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
 }
