@@ -84,3 +84,6 @@ body {
 .topbar {
   background-color: white;
 }
+.nav{
+  display: flex;
+}
