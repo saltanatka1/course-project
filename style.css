@@ -206,3 +206,8 @@ header {
   border-left: 1px solid rgba(0, 0, 0, 0.31);
   padding-right: 3vw;
 }
+.section-grow-content-left-side {
+  width: 50%;
+  padding-top: 25vh;
+  margin-left: 5%;
+}
