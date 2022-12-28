@@ -131,6 +131,7 @@ nav img {
 }
 header {
   background-image: url(./images/bg1.jpg);
+  background-size: cover;
 }
 .head {
   margin-top: 2h;
@@ -166,4 +167,8 @@ header {
   border: none;
   background-color: white;
   color: rgba(0, 0, 0, 0.27);
+}
+#head-button-right {
+  margin: 0;
+  padding: 10px 25px;
 }
