@@ -158,3 +158,6 @@ header {
 .head-button {
   padding: 10px 10px;
 }
+#head-button-left {
+  margin: 0;
+}
