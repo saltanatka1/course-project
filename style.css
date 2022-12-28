@@ -171,4 +171,6 @@ header {
 #head-button-right {
   margin: 0;
   padding: 10px 25px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
 }
