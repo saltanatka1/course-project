@@ -95,3 +95,6 @@ nav {
   margin: 0;
   list-style-type: none;
 }
+.nav .nav-link {
+  color: rgb(6, 6, 6);
+}
