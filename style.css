@@ -163,4 +163,5 @@ header {
   padding: 10px 15px;
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
+  border: none;
 }
