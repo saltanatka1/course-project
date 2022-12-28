@@ -185,4 +185,7 @@ header {
 }
 .section-class-brands h2 {
   text-align: center;
+  font-size: 18px;
+  font-weight: 700px;
+  line-height: 30px;
 }
