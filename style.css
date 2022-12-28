@@ -122,3 +122,6 @@ nav img {
   font-size: 12px;
   color: white;
 }
+.nav-linking {
+  text-decoration: none;
+}
