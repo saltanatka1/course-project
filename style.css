@@ -178,8 +178,11 @@ header {
   background-color: rgba(111, 44, 255, 1);
   color: white;
 }
-.section1 .section1-content {
+.section-class-brands .section-class-brands-content {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+.section-class-brands h2 {
+  text-align: center;
 }
