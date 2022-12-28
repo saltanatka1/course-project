@@ -201,3 +201,6 @@ header {
 .section-grow {
   display: flex;
 }
+.row {
+  flex-direction: column;
+}
