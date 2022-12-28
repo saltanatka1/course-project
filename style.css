@@ -141,3 +141,6 @@ header {
   font-size: 14px;
   font-weight: 400;
 }
+.head h1 {
+  margin: 0;
+}
