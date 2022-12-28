@@ -100,4 +100,6 @@ nav {
   padding: 10px 15px;
   text-decoration: none;
   border-radius: 10px;
+  font-size: 14px;
+  display: block;
 }
