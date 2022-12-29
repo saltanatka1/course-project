@@ -351,3 +351,6 @@ header {
   flex-wrap: wrap;
   border: none;
 }
+.section-trusted {
+  background-color: rgba(245, 245, 245, 1);
+}
