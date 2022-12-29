@@ -389,3 +389,10 @@ header {
 .section-trusted .card-image img {
   max-width: 250px;
 }
+.section-specialize .section-specialize-content {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 990px;
+  padding-bottom: 20vh;
+  margin: 0 auto;
+}
