@@ -251,3 +251,8 @@ header {
   font-size: 40px;
   font-weight: 700;
 }
+.section-commercle .row {
+  display: flex;
+  flex-direction: row;
+  border: none;
+}
