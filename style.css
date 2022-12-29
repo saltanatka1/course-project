@@ -296,3 +296,8 @@ header {
   text-align: center;
   font-size: 15px;
 }
+.section-easy img {
+  margin-left: 18vw;
+  margin-top: 15vh;
+  max-width: 900px;
+}
