@@ -282,3 +282,6 @@ header {
 .section-commercle-content p {
   text-align: center;
 }
+.section-easy {
+  background-color: rgba(245, 245, 245, 1);
+}
