@@ -383,3 +383,9 @@ header {
   color: rgba(111, 44, 255, 1);
   padding-bottom: 20px;
 }
+.section-trusted .card-content img {
+  margin-left: 5vw;
+}
+.section-trusted .card-image img {
+  max-width: 250px;
+}
