@@ -305,3 +305,8 @@ header {
   display: flex;
   padding-bottom: 10vh;
 }
+.section-easy-buttons button {
+  padding: 10px 30px;
+  margin-top: 8vh;
+  border-radius: 30px;
+}
