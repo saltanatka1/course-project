@@ -367,3 +367,9 @@ header {
   padding-bottom: 10vh;
   margin-left: 11vw;
 }
+.section-trusted .container .card {
+  max-width: 250px;
+  margin-right: 3vw;
+  margin-left: 3%;
+  border-radius: 10px;
+}
