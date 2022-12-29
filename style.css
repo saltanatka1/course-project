@@ -256,3 +256,8 @@ header {
   flex-direction: row;
   border: none;
 }
+.section-commercle .commercle-content {
+  text-align: center;
+  max-width: 350px;
+  margin-left: 5vw;
+}
