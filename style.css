@@ -378,3 +378,8 @@ header {
   margin: 0;
   margin-top: 17vh;
 }
+.section-trusted .card-content p {
+  text-align: center;
+  color: rgba(111, 44, 255, 1);
+  padding-bottom: 20px;
+}
