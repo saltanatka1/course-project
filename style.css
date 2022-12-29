@@ -285,3 +285,7 @@ header {
 .section-easy {
   background-color: rgba(245, 245, 245, 1);
 }
+.section-easy h1 {
+  margin-top: 10vh;
+  padding-top: 10vh;
+}
