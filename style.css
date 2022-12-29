@@ -318,3 +318,7 @@ header {
   border: none;
   font-size: 15px;
 }
+.section-easy-buttons .section-easy2-button {
+  margin-right: auto;
+  border: none;
+}
