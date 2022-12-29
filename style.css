@@ -236,4 +236,6 @@ header {
 #inside-left-side button {
 padding: 10px 40px;
 margin-right: 40px;
+background-color: rgba(111, 44, 255, 1);
+color: white;
 }
