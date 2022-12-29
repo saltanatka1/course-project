@@ -325,3 +325,9 @@ header {
   color: rgba(111, 44, 255, 1);
   font-size: 15px;
 }
+.inside-can-do {
+  text-align: center;
+  max-width: 300px;
+  margin-left: 8vw;
+  margin-top: 10vh;
+}
