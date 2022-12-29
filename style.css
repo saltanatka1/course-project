@@ -301,3 +301,7 @@ header {
   margin-top: 15vh;
   max-width: 900px;
 }
+.section-easy-buttons {
+  display: flex;
+  padding-bottom: 10vh;
+}
