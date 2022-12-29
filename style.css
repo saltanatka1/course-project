@@ -336,3 +336,6 @@ header {
   font-size: 40px;
   font-weight: 700;
 }
+.section-can-do p {
+  text-align: center;
+}
