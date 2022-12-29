@@ -246,3 +246,7 @@ header {
   font-weight: 700;
   border-bottom: 3px solid rgba(111, 44, 255, 1);
 }
+.col-4 h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
