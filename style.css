@@ -261,3 +261,11 @@ header {
   max-width: 350px;
   margin-left: 5vw;
 }
+.section-commercle .section-commercle-content h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+.section-commercle-content p {
+  text-align: center;
+}
