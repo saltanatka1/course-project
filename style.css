@@ -241,3 +241,8 @@ header {
   border-radius: 30px;
   border: none;
 }
+#inside-left-side p {
+  font-size: 16px;
+  font-weight: 700;
+  border-bottom: 3px solid rgba(111, 44, 255, 1);
+}
