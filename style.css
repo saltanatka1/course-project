@@ -321,4 +321,7 @@ header {
 .section-easy-buttons .section-easy2-button {
   margin-right: auto;
   border: none;
+  background-color: white;
+  color: rgba(111, 44, 255, 1);
+  font-size: 15px;
 }
