@@ -198,7 +198,7 @@ header {
   font-weight: 700;
   border-bottom: 3px solid rgba(111, 44, 255, 1);
 }
-.section-grow {
+.section-grow-content {
   display: flex;
 }
 .row {
