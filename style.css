@@ -200,6 +200,7 @@ header {
 }
 .section-grow-content {
   display: flex;
+  margin-top: 5%;
 }
 .row {
   flex-direction: column;
@@ -209,10 +210,10 @@ header {
 .section-grow-content-left-side {
   width: 50%;
   padding-top: 25vh;
-  margin-left: 3%;
+  margin-left: 10%;
 }
 .section-grow-content-right-side-two {
-  margin-left: 3%;
+  margin-left: 10%;
 }
 .section-grow-content-left-side h1 {
   font-size: 40px;
