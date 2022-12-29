@@ -315,4 +315,6 @@ header {
   margin-right: 3vw;
   color: white;
   background-color: rgba(111, 44, 255, 1);
+  border: none;
+  font-size: 15px;
 }
