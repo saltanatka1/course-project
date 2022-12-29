@@ -325,6 +325,12 @@ header {
   color: rgba(111, 44, 255, 1);
   font-size: 15px;
 }
+.section-can-do .container .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: none;
+}
 .inside-can-do {
   text-align: center;
   max-width: 300px;
@@ -338,4 +344,10 @@ header {
 }
 .section-can-do p {
   text-align: center;
+}
+.section-can-do .container .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: none;
 }
