@@ -313,5 +313,6 @@ header {
 .section-easy-buttons .section-easy1-button {
   margin-left: auto;
   margin-right: 3vw;
-
+  color: white;
+  background-color: rgba(111, 44, 255, 1);
 }
