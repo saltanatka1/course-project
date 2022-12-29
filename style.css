@@ -359,3 +359,11 @@ header {
   font-size: 40px;
   padding-top: 10vh;
 }
+.section-trusted .section-trusted-content {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-top: 10vh;
+  padding-bottom: 10vh;
+  margin-left: 11vw;
+}
