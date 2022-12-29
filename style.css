@@ -354,3 +354,8 @@ header {
 .section-trusted {
   background-color: rgba(245, 245, 245, 1);
 }
+.section-trusted h1 {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10vh;
+}
