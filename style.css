@@ -180,6 +180,9 @@ header {
   background-color: rgba(111, 44, 255, 1);
   color: white;
 }
+.section-class-brands {
+  margin-top: 2%;
+}
 .section-class-brands .section-class-brands-content {
   display: flex;
   flex-wrap: wrap;
@@ -200,7 +203,8 @@ header {
 }
 .section-grow-content {
   display: flex;
-  margin-top: 5%;
+  flex-wrap: wrap;
+  margin-top: 10%;
 }
 .row {
   flex-direction: column;
@@ -222,6 +226,7 @@ header {
 }
 .section-grow-content-left-side #inside-left-side {
   display: flex;
+  flex-wrap: wrap;
   margin-bottom: 56px;
   margin-top: 50px;
 }
@@ -251,8 +256,16 @@ header {
   font-size: 40px;
   font-weight: 700;
 }
+.section-commercle {
+  margin-top: 10%;
+}
+.section-commercle-content {
+  margin: 0 auto;
+  max-width: 1200px;
+}
 .section-commercle .row {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   border: none;
 }
