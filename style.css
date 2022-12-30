@@ -516,3 +516,8 @@ header {
 .section-connect-icons img {
   margin-left: 2vw;
 }
+footer {
+  background-color: rgba(32, 0, 60, 1);
+  color: rgba(255, 255, 255, 1);
+  margin-top: 5%;
+}
