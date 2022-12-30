@@ -442,3 +442,10 @@ header {
   font-weight: 400;
   margin-bottom: 5vh;
 }
+.section-ecosystem-content button {
+  background-color: rgba(111, 44, 255, 1);
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 18px;
+}
