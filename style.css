@@ -461,3 +461,7 @@ header {
   font-weight: 700;
   color: white;
 }
+.section-book-demo-button {
+  padding: 10px 10px;
+  padding-bottom: 15vh;
+}
