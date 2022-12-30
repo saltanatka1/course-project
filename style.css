@@ -416,4 +416,8 @@ header {
 .section-specialize .card p {
   font-size: 15px;
 }
-
+.section-specialize .card span {
+  text-align: center;
+  font-size: 13px;
+  border-bottom: 2px solid rgba(255, 255, 255, 1);
+}
