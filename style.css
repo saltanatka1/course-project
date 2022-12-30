@@ -465,3 +465,14 @@ header {
   padding: 10px 10px;
   padding-bottom: 15vh;
 }
+#section-book-demo-button-left {
+  background-color: white;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  margin: 0;
+  margin-left: 35vw;
+  padding: 10px 15px;
+  padding-right: 10vw;
+  border: none;
+  color: rgba(0, 0, 0, 0.27);
+}
