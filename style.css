@@ -413,4 +413,7 @@ header {
   font-weight: 700;
   margin-left: 1vw;
 }
+.section-specialize .card p {
+  font-size: 15px;
+}
 
