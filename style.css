@@ -450,3 +450,7 @@ header {
   padding: 10px 18px;
   border-radius: 20px;
 }
+.section-book-demo {
+  background-image: url(./images/Rectanglesection9-bg.jpg);
+  background-size: cover;
+}
