@@ -496,19 +496,22 @@ header {
   border: none;
   color: white;
 }
-.section-connect .img1 {
-  margin-left: 45vw;
+.section-connect-content {
+  margin: 0 auto;
+  max-width: 20%;
+  margin-top: 5%;
+}
+.section-connect-content .img1 {
+  margin-left: 5vw;
 }
 .section-connect p {
   text-align: center;
   font-size: 16px;
   font-weight: 400;
   color: rgba(28, 28, 28, 1);
-  margin: 10vh 0;
 }
 .section-connect-icons {
   display: flex;
-  margin-left: 40vw;
 }
 .section-connect-icons img {
   margin-left: 2vw;
