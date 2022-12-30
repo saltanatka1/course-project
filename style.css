@@ -428,9 +428,17 @@ header {
   display: flex;
   margin: 0 auto;
 }
+.section-ecosystem-content-left-side {
+  margin-left: 10%;
+}
 .section-ecosystem-content h1 {
   font-size: 40px;
   font-weight: 700;
   color: rgba(23, 0, 46, 1);
   margin-top: 30vh;
+}
+.section-ecosystem-content p {
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 5vh;
 }
