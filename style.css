@@ -454,3 +454,10 @@ header {
   background-image: url(./images/Rectanglesection9-bg.jpg);
   background-size: cover;
 }
+.section-book-demo h1 {
+  padding-top: 15vh;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: white;
+}
