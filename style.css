@@ -476,3 +476,13 @@ header {
   border: none;
   color: rgba(0, 0, 0, 0.27);
 }
+#section-book-demo-button-right {
+  padding: 10px 25px;
+  margin: 0;
+  margin-left: -5px;
+  background-color: rgba(111, 44, 255, 1);
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border: none;
+  color: white;
+}
