@@ -296,10 +296,13 @@ header {
   text-align: center;
   font-size: 15px;
 }
+.section-easy-image {
+  margin:0 auto;
+  max-width: 100%;
+}
 .section-easy img {
-  margin-left: 18vw;
-  margin-top: 15vh;
-  max-width: 900px;
+  max-width: 100%;
+  margin: 0 auto;
 }
 .section-easy-buttons {
   display: flex;
@@ -452,6 +455,9 @@ header {
   font-weight: 400;
   margin-bottom: 5vh;
 }
+.section-ecosystem img {
+  width: 50%;
+}
 .section-ecosystem-content button {
   background-color: rgba(111, 44, 255, 1);
   color: white;
@@ -528,6 +534,7 @@ footer {
 }
 footer .container .content {
   display: flex;
+  flex-wrap: wrap;
   padding-top: 5vh;
   padding-bottom: 5vh;
   max-width: 1200px;
