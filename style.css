@@ -430,7 +430,7 @@ header {
   font-size: 13px;
   border-bottom: 2px solid rgba(255, 255, 255, 1);
 }
-.section-ecosystem{
+.section-ecosystem {
   background-color: rgba(245, 245, 245, 1);
 }
 .section-ecosystem-content {
@@ -521,7 +521,12 @@ footer {
   color: rgba(255, 255, 255, 1);
   margin-top: 5%;
 }
-footer .container .footer-content {
+footer {
+  background-color: rgba(32, 0, 60, 1);
+  color: rgba(255, 255, 255, 1);
+  margin-top: 20vh;
+}
+footer .container .content {
   display: flex;
   padding-top: 5vh;
   padding-bottom: 5vh;
@@ -541,4 +546,57 @@ footer .container .content ul li a {
 }
 .footer-content ul li {
   padding: 7px 10px;
+}
+.footer-content h3 {
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+}
+footer .featured1 {
+  display: flex;
+}
+.featured {
+  max-width: 40%;
+  margin-right: 3vw;
+}
+.products {
+  max-width: 20%;
+  margin-right: 3vw;
+}
+.recources {
+  max-width: 20%;
+  margin-right: 3vw;
+}
+.company {
+  max-width: 20%;
+  margin-right: 3vw;
+}
+.working {
+  max-width: 20%px;
+  margin-right: 3vw;
+}
+.working h3 {
+  font-weight: 400;
+}
+.footer-from-below {
+  display: flex;
+  padding-bottom: 10vh;
+}
+.footer-from-below img {
+  max-width: 15vw;
+}
+.footer-logo {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer-logo img {
+  max-width: 20vw;
+  margin-left: 4vw;
+}
+.footer-logo span {
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: 40o;
 }
