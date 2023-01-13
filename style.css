@@ -194,12 +194,13 @@ header {
   font-weight: 700px;
   line-height: 30px;
 }
-.section-class-brands p {
+.section-class-brands p{
   display: inline-block;
-  margin-left: 44vw;
   font-size: 16px;
   font-weight: 700;
   border-bottom: 3px solid rgba(111, 44, 255, 1);
+  margin-left: 42%;
+  margin-right: 42%;
 }
 .section-grow-content {
   display: flex;
@@ -298,7 +299,8 @@ header {
 }
 .section-easy img {
   width: 100%;
-  padding-left: 5%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .section-easy-buttons {
   display: flex;
@@ -333,7 +335,8 @@ header {
 .inside-can-do {
   text-align: center;
   max-width: 300px;
-  margin-left: 8vw;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 10vh;
 }
 .section-can-do h1 {
@@ -360,36 +363,36 @@ header {
 }
 .section-trusted .section-trusted-content {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
-  margin: 0 auto;
   margin-top: 10vh;
   padding-bottom: 10vh;
-  margin-left: 11vw;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.section-trusted .section-trusted-content .trusted-vector {
+  max-width: 50px;
+  max-height: 10vh;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 .section-trusted .container .card {
   max-width: 250px;
-  margin-right: 3vw;
-  margin-left: 3%;
+  margin: 3%;
   border-radius: 10px;
-}
-.section-trusted .image1 {
-  max-height: 10vh;
-  margin: 0;
-  margin-top: 17vh;
 }
 .section-trusted .card-content p {
   text-align: center;
   color: rgba(111, 44, 255, 1);
   padding-bottom: 20px;
 }
-.section-trusted .card-content img {
-  margin-left: 5vw;
-}
 .section-trusted .card-image img {
   max-width: 250px;
 }
 .section-specialize .section-specialize-content {
   display: flex;
+
   flex-wrap: wrap;
   max-width: 998px;
   padding-bottom: 20vh;
@@ -410,8 +413,7 @@ header {
   border: none;
   border-radius: 10px;
   padding: 17px 10px;
-  width: 30vw;
-  height: 27vh;
+  height: 90%;
 }
 .section-specialize .card-head {
   display: flex;
@@ -474,6 +476,8 @@ header {
   color: white;
 }
 .section-book-demo-button {
+  display: flex;
+  justify-content: center;
   padding: 10px 10px;
   padding-bottom: 15vh;
 }
@@ -482,7 +486,6 @@ header {
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
   margin: 0;
-  margin-left: 33vw;
   padding: 10px 15px;
   padding-right: 10vw;
   border: none;
@@ -500,11 +503,11 @@ header {
 }
 .section-connect-content {
   margin: 0 auto;
-  max-width: 20%;
   margin-top: 5%;
 }
-.section-connect-content .img1 {
-  margin-left: 5vw;
+.section-connect-content .connect-image {
+  display: flex;
+  justify-content: center;
 }
 .section-connect p {
   text-align: center;
@@ -514,6 +517,7 @@ header {
 }
 .section-connect-icons {
   display: flex;
+  justify-content: center;
 }
 .section-connect-icons img {
   margin-left: 2vw;
@@ -533,7 +537,7 @@ footer .container .content {
   flex-wrap: wrap;
   padding-top: 5vh;
   padding-bottom: 5vh;
-  max-width: 1400px;
+  max-width: 1190x;
   margin: 0 auto;
 }
 footer .container .content ul {
@@ -559,7 +563,7 @@ footer .featured1 {
   display: flex;
 }
 .featured {
-  max-width: 40%;
+  max-width: 30%;
   margin-right: 3vw;
 }
 .products {
@@ -595,8 +599,9 @@ footer .featured1 {
   margin-right: auto;
 }
 .footer-logo img {
-  max-width: 8vw;
-  margin-left: 4vw;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .footer-logo span {
   padding: 10px 20px;
