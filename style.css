@@ -8,7 +8,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .container {
-  max-width: 1440px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 .row {
@@ -298,7 +298,7 @@ header {
 }
 .section-easy img {
   width: 100%;
-  padding-left: 8%;
+  padding-left: 5%;
 }
 .section-easy-buttons {
   display: flex;
@@ -452,7 +452,7 @@ header {
   margin-bottom: 5vh;
 }
 .section-ecosystem img {
-  width: 50%;
+  width: 40%;
 }
 .section-ecosystem-content button {
   background-color: rgba(111, 44, 255, 1);
