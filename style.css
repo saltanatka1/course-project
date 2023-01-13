@@ -8,7 +8,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .container {
-  max-width: 1400px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 .row {
@@ -209,15 +209,15 @@ header {
 .section-grow .row {
   flex-direction: column;
   border-left: 1px solid rgba(0, 0, 0, 0.31);
-  padding-right: 3vw;
+  padding-right: 2vw;
 }
 .section-grow-content-left-side {
   width: 50%;
   padding-top: 25vh;
-  margin-left: 10%;
+  margin-left: 8%;
 }
 .section-grow-content-right-side-two {
-  margin-left: 10%;
+  margin-left: 8%;
 }
 .section-grow-content-left-side h1 {
   font-size: 40px;
