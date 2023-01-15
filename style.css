@@ -194,7 +194,7 @@ header {
   font-weight: 700px;
   line-height: 30px;
 }
-.section-class-brands p{
+.section-class-brands p {
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
@@ -369,7 +369,6 @@ header {
   padding-bottom: 10vh;
   margin-left: auto;
   margin-right: auto;
-  
 }
 .section-trusted .section-trusted-content .trusted-vector {
   max-width: 50px;
