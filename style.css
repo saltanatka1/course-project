@@ -560,7 +560,6 @@ footer .container .content ul li a {
 }
 footer .featured1 {
   display: flex;
-  flex-wrap: wrap;
 }
 .featured {
   max-width: 30%;
