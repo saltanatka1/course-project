@@ -80,6 +80,47 @@ body {
 .card.card-horizontal .card-image {
   width: 30%;
 }
+.hide{
+  display: none;
+}
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgb(13, 42, 13);
+  width: 150px;
+  transform: translateX(-150px);
+  transition: transform 400ms;
+}
+
+#sidebar h1 {
+  color: white;
+  padding:  0 10px;
+  text-align: center;
+}
+#sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+}
+#sidebar a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 10px 20px;
+  border-left: 3px solid transparent;
+}
+
+#sidebar a:hover {
+  border-color: white;
+  background-color: rgb(229, 212, 212);
+}
+
+#sidebar.show {
+  transform: translateX(0);
+}
 .topbar {
   background-color: white;
 }
